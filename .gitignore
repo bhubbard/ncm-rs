@@ -1,0 +1,10 @@
+/target
+Cargo.lock
+artifacts/
+data/
+outputs/
+*.pt
+*.pth
+*.pickle
+*.jsonl
+.DS_Store
